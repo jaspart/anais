@@ -1,0 +1,241 @@
+
+true => x.index/3 = 0
+false => y.index/4 = 0
+false => z.index/5 = 0
+
+true => x.index/3 = 1
+false => y.index/4 = 0
+false => z.index/5 = 0
+
+true => x.index/3 = 2
+true => y.index/4 = 0
+false => z.index/5 = 0
+
+true => x.index/3 = 0
+false => y.index/4 = 1
+false => z.index/5 = 0
+
+true => x.index/3 = 1
+false => y.index/4 = 1
+false => z.index/5 = 0
+
+true => x.index/3 = 2
+true => y.index/4 = 1
+false => z.index/5 = 0
+
+true => x.index/3 = 0
+false => y.index/4 = 2
+false => z.index/5 = 0
+
+true => x.index/3 = 1
+false => y.index/4 = 2
+false => z.index/5 = 0
+
+true => x.index/3 = 2
+true => y.index/4 = 2
+false => z.index/5 = 0
+
+true => x.index/3 = 0
+false => y.index/4 = 3
+false => z.index/5 = 0
+
+true => x.index/3 = 1
+false => y.index/4 = 3
+false => z.index/5 = 0
+
+true => x.index/3 = 2
+true => y.index/4 = 3
+true => z.index/5 = 0
+
+true => x.index/3 = 0
+false => y.index/4 = 0
+false => z.index/5 = 1
+
+true => x.index/3 = 1
+false => y.index/4 = 0
+false => z.index/5 = 1
+
+true => x.index/3 = 2
+true => y.index/4 = 0
+false => z.index/5 = 1
+
+true => x.index/3 = 0
+false => y.index/4 = 1
+false => z.index/5 = 1
+
+true => x.index/3 = 1
+false => y.index/4 = 1
+false => z.index/5 = 1
+
+true => x.index/3 = 2
+true => y.index/4 = 1
+false => z.index/5 = 1
+
+true => x.index/3 = 0
+false => y.index/4 = 2
+false => z.index/5 = 1
+
+true => x.index/3 = 1
+false => y.index/4 = 2
+false => z.index/5 = 1
+
+true => x.index/3 = 2
+true => y.index/4 = 2
+false => z.index/5 = 1
+
+true => x.index/3 = 0
+false => y.index/4 = 3
+false => z.index/5 = 1
+
+true => x.index/3 = 1
+false => y.index/4 = 3
+false => z.index/5 = 1
+
+true => x.index/3 = 2
+true => y.index/4 = 3
+true => z.index/5 = 1
+
+true => x.index/3 = 0
+false => y.index/4 = 0
+false => z.index/5 = 2
+
+true => x.index/3 = 1
+false => y.index/4 = 0
+false => z.index/5 = 2
+
+true => x.index/3 = 2
+true => y.index/4 = 0
+false => z.index/5 = 2
+
+true => x.index/3 = 0
+false => y.index/4 = 1
+false => z.index/5 = 2
+
+true => x.index/3 = 1
+false => y.index/4 = 1
+false => z.index/5 = 2
+
+true => x.index/3 = 2
+true => y.index/4 = 1
+false => z.index/5 = 2
+
+true => x.index/3 = 0
+false => y.index/4 = 2
+false => z.index/5 = 2
+
+true => x.index/3 = 1
+false => y.index/4 = 2
+false => z.index/5 = 2
+
+true => x.index/3 = 2
+true => y.index/4 = 2
+false => z.index/5 = 2
+
+true => x.index/3 = 0
+false => y.index/4 = 3
+false => z.index/5 = 2
+
+true => x.index/3 = 1
+false => y.index/4 = 3
+false => z.index/5 = 2
+
+true => x.index/3 = 2
+true => y.index/4 = 3
+true => z.index/5 = 2
+
+true => x.index/3 = 0
+false => y.index/4 = 0
+false => z.index/5 = 3
+
+true => x.index/3 = 1
+false => y.index/4 = 0
+false => z.index/5 = 3
+
+true => x.index/3 = 2
+true => y.index/4 = 0
+false => z.index/5 = 3
+
+true => x.index/3 = 0
+false => y.index/4 = 1
+false => z.index/5 = 3
+
+true => x.index/3 = 1
+false => y.index/4 = 1
+false => z.index/5 = 3
+
+true => x.index/3 = 2
+true => y.index/4 = 1
+false => z.index/5 = 3
+
+true => x.index/3 = 0
+false => y.index/4 = 2
+false => z.index/5 = 3
+
+true => x.index/3 = 1
+false => y.index/4 = 2
+false => z.index/5 = 3
+
+true => x.index/3 = 2
+true => y.index/4 = 2
+false => z.index/5 = 3
+
+true => x.index/3 = 0
+false => y.index/4 = 3
+false => z.index/5 = 3
+
+true => x.index/3 = 1
+false => y.index/4 = 3
+false => z.index/5 = 3
+
+true => x.index/3 = 2
+true => y.index/4 = 3
+true => z.index/5 = 3
+
+true => x.index/3 = 0
+false => y.index/4 = 0
+false => z.index/5 = 4
+
+true => x.index/3 = 1
+false => y.index/4 = 0
+false => z.index/5 = 4
+
+true => x.index/3 = 2
+true => y.index/4 = 0
+false => z.index/5 = 4
+
+true => x.index/3 = 0
+false => y.index/4 = 1
+false => z.index/5 = 4
+
+true => x.index/3 = 1
+false => y.index/4 = 1
+false => z.index/5 = 4
+
+true => x.index/3 = 2
+true => y.index/4 = 1
+false => z.index/5 = 4
+
+true => x.index/3 = 0
+false => y.index/4 = 2
+false => z.index/5 = 4
+
+true => x.index/3 = 1
+false => y.index/4 = 2
+false => z.index/5 = 4
+
+true => x.index/3 = 2
+true => y.index/4 = 2
+false => z.index/5 = 4
+
+true => x.index/3 = 0
+false => y.index/4 = 3
+false => z.index/5 = 4
+
+true => x.index/3 = 1
+false => y.index/4 = 3
+false => z.index/5 = 4
+
+true => x.index/3 = 2
+true => y.index/4 = 3
+true => z.index/5 = 4
+
